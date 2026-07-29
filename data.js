@@ -76,7 +76,7 @@ const SITE_DATA = {
       roles: [
         {
           title: "Senior Executive",
-          period: "[PROMOTION MONTH] 2026 — Present",
+          period: "Jun 2026 — Present",
           bullets: [
             "Own end-to-end design of reconciliation and dashboard tools used across audit and analytics engagements — including a dedicated Balance Sheet & P&L reconciliation engine built for an insurance client to validate subsidiary-level figures against consolidated head-office reporting.",
             "Lead development of a firm-level MIS Power BI suite tracking revenue, costing, expenditure, and Budget-vs-Actual hours across clients, partners, managers, and employees — now used firm-wide for engagement planning and resourcing decisions.",
@@ -88,7 +88,7 @@ const SITE_DATA = {
         },
         {
           title: "Data Analyst Executive",
-          period: "Jun 2024 — [PROMOTION MONTH] 2026",
+          period: "Jun 2024 — Jun 2026",
           bullets: [
             "Designed and deployed 10+ interactive Power BI dashboards for management and audit reporting, implementing row-level security (RLS) for client-sensitive datasets.",
             "Built Python (Pandas/NumPy) automation scripts to clean, validate, and reconcile datasets exceeding 5 crore+ rows, cutting manual processing time on recurring tasks.",
